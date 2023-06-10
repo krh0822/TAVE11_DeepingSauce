@@ -18,13 +18,13 @@
 > 7주차(~07/01)&nbsp;&nbsp;&nbsp; 파라미터 튜닝 & 모델 선택 & 결과 제출  
 > 8주차(~07/05)&nbsp;&nbsp;&nbsp; PPT 제작
 
-### 4주차 [바로가기](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/tree/main/ProjectCode/20230610)
+### 4주차 [바로가기](https://github.com/jeongmin1016/TAVE11_DeepingSauce/tree/main/230610)
 - [김류현]
 - [서가원]
 - [안정민]
 - [이의진]
 
-### 5주차 [바로가기](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/tree/main/ProjectCode/20230617)
+### 5주차 [바로가기](https://github.com/jeongmin1016/TAVE11_DeepingSauce/tree/main/230610)
 - [김류현]
 - [서가원]
 - [안정민]
