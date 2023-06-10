@@ -9,14 +9,14 @@
 - Members: 김류현, 서가원, 안정민, 이의진
 
 ### Project Plan
-> 1주차(~5/20)&nbsp;&nbsp;&nbsp; 프로젝트 주제 설정1  
-> 2주차(~5/27)&nbsp;&nbsp;&nbsp; 프로젝트 주제 설정2    
-> 3주차(~6/3)&nbsp;&nbsp;&nbsp; ~~프로젝트 주제 설정3~~ 프로젝트 주제 변경 (기간 문제)    
-> 4주차(~6/10)&nbsp;&nbsp;&nbsp; 데이터 파악 & 탐색적 데이터 분석(Exploratory Data Analysis)     
-> 5주차(~6/17)&nbsp;&nbsp;&nbsp; EDA & 데이터 전처리  
-> 6주차(~6/24)&nbsp;&nbsp;&nbsp; 모델 적합 & 모델 공부  
-> 7주차(~7/1)&nbsp;&nbsp;&nbsp; 파라미터 튜닝 & 모델 선택 & 결과 제출  
-> 8주차(~7/5)&nbsp;&nbsp;&nbsp; PPT 제작
+> 1주차(~05/20)&nbsp;&nbsp;&nbsp; 프로젝트 주제 설정1  
+> 2주차(~05/27)&nbsp;&nbsp;&nbsp; 프로젝트 주제 설정2    
+> 3주차(~06/03)&nbsp;&nbsp;&nbsp; ~~프로젝트 주제 설정3~~ 프로젝트 주제 변경 (기간 문제)    
+> 4주차(~06/10)&nbsp;&nbsp;&nbsp; 데이터 파악 & 탐색적 데이터 분석(Exploratory Data Analysis)     
+> 5주차(~06/17)&nbsp;&nbsp;&nbsp; EDA & 데이터 전처리  
+> 6주차(~06/24)&nbsp;&nbsp;&nbsp; 모델 적합 & 모델 공부  
+> 7주차(~07/01)&nbsp;&nbsp;&nbsp; 파라미터 튜닝 & 모델 선택 & 결과 제출  
+> 8주차(~07/05)&nbsp;&nbsp;&nbsp; PPT 제작
 
 ### 4주차 [바로가기](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/tree/main/ProjectCode/20220716)
 - [김류현]
