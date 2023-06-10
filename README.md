@@ -25,6 +25,7 @@
 - [이의진]
 
 
-### 참고 문헌
+
+## 참고 문헌
 밑바닥부터 시작하는 딥러닝 ❷
 - [관련깃헙](https://github.com/WegraLee/deep-learning-from-scratch-2)
