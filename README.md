@@ -19,8 +19,6 @@
 > 8주차(~07/05)&nbsp;&nbsp;&nbsp; PPT 제작
 
 ### 4주차 [바로가기](https://github.com/jeongmin1016/TAVE11_DeepingSauce/tree/main/230610)
-- [김류현]
-- [서가원]
 - [안정민](https://github.com/jeongmin1016/TAVE11_DeepingSauce/blob/main/230610/0610_%EB%B2%95%EC%9B%90%ED%8C%90%EA%B2%B0_EDA.ipynb)
 - [이의진](https://github.com/jeongmin1016/TAVE11_DeepingSauce/blob/main/230610/%EC%A0%84%EC%B2%98%EB%A6%AC%EC%9D%B4%EA%B2%83%EC%A0%80%EA%B2%83.ipynb)
 
