@@ -23,7 +23,7 @@
 - [이의진](https://github.com/jeongmin1016/TAVE11_DeepingSauce/blob/main/230610/%EC%A0%84%EC%B2%98%EB%A6%AC%EC%9D%B4%EA%B2%83%EC%A0%80%EA%B2%83.ipynb)
 
 ### 5주차 [바로가기](https://github.com/jeongmin1016/TAVE11_DeepingSauce/tree/main/230610)
-- [김류현]
+- [김류현](https://github.com/krh0822/TAVE11_DeepingSauce/blob/main/230617/0617_krh.ipynb)
 - [서가원]
 - [안정민]
 - [이의진]
